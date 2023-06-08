@@ -1,0 +1,18 @@
+// server
+https://www.npmjs.com/package/sqlite3
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://fireship.io/lessons/docker-basics-tutorial-nodejs/
+https://nodejs.org/api/process.html#event-exit
+https://linuxhint.com/create-table-in-sqlite-using-if-not-exists-statement/
+https://www.sqlite.org/autoinc.html
+https://stackoverflow.com/questions/13696148/node-js-create-folder-or-use-existing
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+https://stackoverflow.com/questions/15575914/how-to-read-a-sqlite3-database-using-node-js-synchronously
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://github.com/TryGhost/node-sqlite3/wiki/API
+
+// client
+https://www.electronjs.org/docs/latest/tutorial/quick-start
+https://www.w3schools.com/html/html_tables.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+https://stackoverflow.com/questions/9643311/pass-a-string-parameter-in-an-onclick-function

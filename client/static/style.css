@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+p, th, td {
+    font-size: larger;
+}
+
+button {
+    font-size: medium;
+}
+
+textarea {
+    width: 275px;
+    height: 140px;
+}
+
+button {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: solid black 1px;
+    margin-top: 0.5rem;
+}
+
+.button {
+    text-align: center;
+}
+
+.button-width {
+    width: fit-content;
+}
+
+.button-width > button {
+    width: 100%
+}
+
+.centre {
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+    align-items: center;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: solid black 1px;
+}
+
+th {
+    background-color: #efefff;
+}
+
+th, td {
+    padding: 0.5rem;
+}
+
+th:first-child {
+    width: 100%;
+}
+
+td:last-child {
+    text-align: center;
+}
+
+td * {
+    margin: 0;
+}

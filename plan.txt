@@ -1,0 +1,19 @@
+# UI      #
+# *welc*  #
+#[Connect]#
+
+# notes[x]#
+# notes[x]#
+# notes[x]#
+# notes[x]#
+# notes[x]#
+# notes[x]#
+# new note#
+# [add]   #
+# [dscnct]#
+
+| ^
+V |
+
+# Server  # (there will be a db)
+# notes   #
