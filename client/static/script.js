@@ -1,4 +1,4 @@
-const SERVER = "http://localhost:3000/api"
+const SERVER = "http://63.35.193.84:3000/api"
 const NOTES_TABLE = document.getElementById("notes")
 
 function deleteNote(event) {
