@@ -13,4 +13,4 @@ EXPOSE 3000
 
 VOLUME /app/config
 
-CMD [ "npm", "run" ]
+CMD [ "node", "." ]
