@@ -1,3 +1,4 @@
+# Commands to create Docker Image
 FROM node:18.5
 
 WORKDIR /app

@@ -1,25 +1,31 @@
+/* Sets the font for the entire html page */
 body {
     font-family: sans-serif;
 }
 
+/* Center the title of the page */
 h1 {
     width: 100%;
     text-align: center;
 }
 
+/* Increse the font size for all the normal text: paragraph, table heading, table data */
 p, th, td {
     font-size: larger;
 }
 
+/* Increase the font size for the buttons */
 button {
     font-size: medium;
 }
 
+/* Set the default size for new note text box */
 textarea {
     width: 275px;
     height: 140px;
 }
 
+/* Add styling to the button */
 button {
     padding: 0.5rem;
     border-radius: 0.5rem;
@@ -27,10 +33,12 @@ button {
     margin-top: 0.5rem;
 }
 
+/* Center the 'button' div */
 .button {
     text-align: center;
 }
 
+/* The following 2 styles will keep chosen buttons the same width */
 .button-width {
     width: fit-content;
 }
@@ -39,6 +47,7 @@ button {
     width: 100%
 }
 
+/* Center an item on the page */
 .centre {
     display: flex;
     width: fit-content;
@@ -46,31 +55,38 @@ button {
     align-items: center;
 }
 
+/* Styles table (sets it to half of the width of the page, improves border appearance */
 table {
     width: 50%;
     border-collapse: collapse;
 }
 
+/* Creates the table borders */
 table, th, td {
     border: solid black 1px;
 }
 
+/* Sets the table heading colour */
 th {
     background-color: #efefff;
 }
 
+/* Table padding */
 th, td {
     padding: 0.5rem;
 }
 
+/* Set table column sizes */
 th:first-child {
     width: 100%;
 }
 
+/* Center the Delete button */
 td:last-child {
     text-align: center;
 }
 
+/* Remove margins for all elements inside the table */
 td * {
     margin: 0;
 }
