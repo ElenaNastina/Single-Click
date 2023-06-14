@@ -18,3 +18,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 https://stackoverflow.com/questions/9643311/pass-a-string-parameter-in-an-onclick-function
 https://www.electronforge.io/core-concepts/why-electron-forge
 https://www.electron.build/
+
+// testing
+https://www.youtube.com/watch?v=Bq_oz7nCNUA
