@@ -1,4 +1,6 @@
-/* date/name/class / program desciption  */
+/*  app.js
+    @author: Elena Nastina
+    Date: 7th June 2023  */
 
 //Importing database and web serving libraries for use later
 const app = require('express')()

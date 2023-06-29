@@ -1,4 +1,6 @@
-/* date/name */
+/*  script.js
+    @author: Elena Nastina
+    Date: 7th June 2023 */
 
 //two variables to store: server address and notes table
 const SERVER = "http://63.35.193.84:3000/api"
